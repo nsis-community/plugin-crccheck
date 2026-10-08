@@ -1,7 +1,7 @@
 #define WIN32_LEAN_AND_MEAN
 #include <windows.h>
 #include <stdlib.h>
-#include "..\ExDLL\exdll.h"
+#include "exdll.h"
 
 HINSTANCE g_hInstance;
 
